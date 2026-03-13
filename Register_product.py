@@ -46,7 +46,7 @@ def register_sale():
         "name": name,
         "price": price,
         "quantity": quantity,
-        "subtotal": total_cost,
+        "subtotal": total_cost,     
     }
 
     return sale
