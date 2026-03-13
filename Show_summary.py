@@ -20,7 +20,7 @@ def show_summary(sales_list, total_amount):
             else:
                 product_totals[name] = quantity
 
-        for name in product_totals:
+        for name in product_totals: 
             print("Product", name)
             print("Total quantity", product_totals[name])
 
