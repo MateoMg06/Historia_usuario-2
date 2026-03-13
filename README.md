@@ -68,4 +68,4 @@ The application includes robust input validation:
 - **Price**: Must be a valid number and cannot be negative
 - **Quantity**: Must be a whole number and cannot be negative
 
-Invalid inputs prompt the user to re-enter the correct information.
+Invalid inputs prompt the user to re-enter the correct information.        
